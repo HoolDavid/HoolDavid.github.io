@@ -33,3 +33,11 @@ body{
 .navbar-default .navbar-nav>li>a:hover {
   color: #97BFB6;
 }
+
+#marginBreak {
+  margin-bottom: 100px;
+}
+
+#content-about-me {
+  text-align: center;
+}
